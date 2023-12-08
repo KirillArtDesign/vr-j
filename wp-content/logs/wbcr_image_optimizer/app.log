@@ -1,0 +1,896 @@
+
+28-11-2023 20:53:36 [vr-j.ru][info] START auto optimize cron job. Attachment: 107724
+28-11-2023 20:53:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09.png) to a remote server (server_1).
+28-11-2023 20:53:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-150x150.png) to a remote server (server_1).
+28-11-2023 20:53:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-300x122.png) to a remote server (server_1).
+28-11-2023 20:53:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-768x313.png) to a remote server (server_1).
+28-11-2023 20:53:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:39 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-900x366.png) to a remote server (server_1).
+28-11-2023 20:53:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-160x200.png) to a remote server (server_1).
+28-11-2023 20:53:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-250x300.png) to a remote server (server_1).
+28-11-2023 20:53:41 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:41 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-80x60.png) to a remote server (server_1).
+28-11-2023 20:53:41 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:41 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-570x304.png) to a remote server (server_1).
+28-11-2023 20:53:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:42 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-96x90.png) to a remote server (server_1).
+28-11-2023 20:53:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:42 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-255x160.png) to a remote server (server_1).
+28-11-2023 20:53:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-400x250.png) to a remote server (server_1).
+28-11-2023 20:53:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-200x200.png) to a remote server (server_1).
+28-11-2023 20:53:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-275x197.png) to a remote server (server_1).
+28-11-2023 20:53:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-572x418.png) to a remote server (server_1).
+28-11-2023 20:53:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-273x143.png) to a remote server (server_1).
+28-11-2023 20:53:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.53.09-572x194.png) to a remote server (server_1).
+28-11-2023 20:53:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:53:46 [vr-j.ru][debug] New queue created #16225, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107724,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:829010,&quot;final_size&quot;:334990,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:94741,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701194026}
+28-11-2023 20:53:46 [vr-j.ru][info] END auto optimize cron job. Attachment: 107724
+-------------------------------
+28-11-2023 20:55:03 [vr-j.ru][info] START auto optimize cron job. Attachment: 107725
+28-11-2023 20:55:04 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29.png) to a remote server (server_1).
+28-11-2023 20:55:05 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:05 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-150x150.png) to a remote server (server_1).
+28-11-2023 20:55:05 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:06 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-300x198.png) to a remote server (server_1).
+28-11-2023 20:55:06 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:06 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-768x507.png) to a remote server (server_1).
+28-11-2023 20:55:07 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:07 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-848x560.png) to a remote server (server_1).
+28-11-2023 20:55:08 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:08 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-160x200.png) to a remote server (server_1).
+28-11-2023 20:55:09 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:09 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-250x300.png) to a remote server (server_1).
+28-11-2023 20:55:09 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:09 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-80x60.png) to a remote server (server_1).
+28-11-2023 20:55:09 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:10 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-570x304.png) to a remote server (server_1).
+28-11-2023 20:55:10 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:10 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-96x90.png) to a remote server (server_1).
+28-11-2023 20:55:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-255x160.png) to a remote server (server_1).
+28-11-2023 20:55:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-400x250.png) to a remote server (server_1).
+28-11-2023 20:55:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-200x200.png) to a remote server (server_1).
+28-11-2023 20:55:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-275x197.png) to a remote server (server_1).
+28-11-2023 20:55:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:13 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-572x418.png) to a remote server (server_1).
+28-11-2023 20:55:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-273x143.png) to a remote server (server_1).
+28-11-2023 20:55:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-28-v-20.54.29-572x194.png) to a remote server (server_1).
+28-11-2023 20:55:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+28-11-2023 20:55:15 [vr-j.ru][debug] New queue created #16226, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107725,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2477453,&quot;final_size&quot;:1166766,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:838730,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701194115}
+28-11-2023 20:55:15 [vr-j.ru][info] END auto optimize cron job. Attachment: 107725
+-------------------------------
+29-11-2023 09:14:11 [vr-j.ru][info] START auto optimize cron job. Attachment: 107781
+29-11-2023 09:14:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43.png) to a remote server (server_1).
+29-11-2023 09:14:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-150x150.png) to a remote server (server_1).
+29-11-2023 09:14:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-300x143.png) to a remote server (server_1).
+29-11-2023 09:14:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-768x365.png) to a remote server (server_1).
+29-11-2023 09:14:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-900x428.png) to a remote server (server_1).
+29-11-2023 09:14:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-1536x731.png) to a remote server (server_1).
+29-11-2023 09:14:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-160x200.png) to a remote server (server_1).
+29-11-2023 09:14:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-250x300.png) to a remote server (server_1).
+29-11-2023 09:14:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-80x60.png) to a remote server (server_1).
+29-11-2023 09:14:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-570x304.png) to a remote server (server_1).
+29-11-2023 09:14:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-96x90.png) to a remote server (server_1).
+29-11-2023 09:14:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-255x160.png) to a remote server (server_1).
+29-11-2023 09:14:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-400x250.png) to a remote server (server_1).
+29-11-2023 09:14:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-200x200.png) to a remote server (server_1).
+29-11-2023 09:14:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-275x197.png) to a remote server (server_1).
+29-11-2023 09:14:25 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-572x418.png) to a remote server (server_1).
+29-11-2023 09:14:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-273x143.png) to a remote server (server_1).
+29-11-2023 09:14:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-09.13.43-572x194.png) to a remote server (server_1).
+29-11-2023 09:14:27 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 09:14:27 [vr-j.ru][debug] New queue created #16227, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107781,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:6607830,&quot;final_size&quot;:2367132,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:2409604,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701238467}
+29-11-2023 09:14:27 [vr-j.ru][info] END auto optimize cron job. Attachment: 107781
+-------------------------------
+29-11-2023 11:01:22 [vr-j.ru][info] START auto optimize cron job. Attachment: 107786
+29-11-2023 11:01:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11.png) to a remote server (server_1).
+29-11-2023 11:01:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:27 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-150x150.png) to a remote server (server_1).
+29-11-2023 11:01:27 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:27 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-300x163.png) to a remote server (server_1).
+29-11-2023 11:01:28 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:28 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-768x417.png) to a remote server (server_1).
+29-11-2023 11:01:28 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:29 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-900x488.png) to a remote server (server_1).
+29-11-2023 11:01:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-1536x833.png) to a remote server (server_1).
+29-11-2023 11:01:33 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:33 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-160x200.png) to a remote server (server_1).
+29-11-2023 11:01:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-250x300.png) to a remote server (server_1).
+29-11-2023 11:01:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-80x60.png) to a remote server (server_1).
+29-11-2023 11:01:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:35 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-570x304.png) to a remote server (server_1).
+29-11-2023 11:01:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-96x90.png) to a remote server (server_1).
+29-11-2023 11:01:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-255x160.png) to a remote server (server_1).
+29-11-2023 11:01:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-400x250.png) to a remote server (server_1).
+29-11-2023 11:01:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-200x200.png) to a remote server (server_1).
+29-11-2023 11:01:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-275x197.png) to a remote server (server_1).
+29-11-2023 11:01:38 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-572x418.png) to a remote server (server_1).
+29-11-2023 11:01:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:39 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-273x143.png) to a remote server (server_1).
+29-11-2023 11:01:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:39 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-29-v-10.59.11-572x194.png) to a remote server (server_1).
+29-11-2023 11:01:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+29-11-2023 11:01:40 [vr-j.ru][debug] New queue created #16228, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107786,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2138366,&quot;final_size&quot;:1105924,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:501201,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701244900}
+29-11-2023 11:01:40 [vr-j.ru][info] END auto optimize cron job. Attachment: 107786
+-------------------------------
+30-11-2023 14:21:26 [vr-j.ru][info] START auto optimize cron job. Attachment: 107891
+30-11-2023 14:21:27 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15.png) to a remote server (server_1).
+30-11-2023 14:21:29 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:29 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-150x150.png) to a remote server (server_1).
+30-11-2023 14:21:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-300x178.png) to a remote server (server_1).
+30-11-2023 14:21:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-768x456.png) to a remote server (server_1).
+30-11-2023 14:21:31 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:31 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-900x535.png) to a remote server (server_1).
+30-11-2023 14:21:32 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:32 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-1536x912.png) to a remote server (server_1).
+30-11-2023 14:21:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-160x200.png) to a remote server (server_1).
+30-11-2023 14:21:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:35 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-250x300.png) to a remote server (server_1).
+30-11-2023 14:21:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:35 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-80x60.png) to a remote server (server_1).
+30-11-2023 14:21:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-570x304.png) to a remote server (server_1).
+30-11-2023 14:21:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-96x90.png) to a remote server (server_1).
+30-11-2023 14:21:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-255x160.png) to a remote server (server_1).
+30-11-2023 14:21:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-400x250.png) to a remote server (server_1).
+30-11-2023 14:21:38 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-200x200.png) to a remote server (server_1).
+30-11-2023 14:21:38 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-275x197.png) to a remote server (server_1).
+30-11-2023 14:21:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:39 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-572x418.png) to a remote server (server_1).
+30-11-2023 14:21:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-273x143.png) to a remote server (server_1).
+30-11-2023 14:21:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/11/Snimok-ekrana-2023-11-30-v-14.20.15-572x194.png) to a remote server (server_1).
+30-11-2023 14:21:41 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+30-11-2023 14:21:41 [vr-j.ru][debug] New queue created #16229, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107891,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3833315,&quot;final_size&quot;:1516600,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:1219714,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701343301}
+30-11-2023 14:21:41 [vr-j.ru][info] END auto optimize cron job. Attachment: 107891
+-------------------------------
+01-12-2023 14:04:42 [vr-j.ru][info] START auto optimize cron job. Attachment: 107941
+01-12-2023 14:04:42 [vr-j.ru][info] Try to create backup directory. Backup dir: (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/wio_backup/2023/12)
+01-12-2023 14:04:42 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20.png) to a remote server (server_1).
+01-12-2023 14:04:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-150x150.png) to a remote server (server_1).
+01-12-2023 14:04:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-300x111.png) to a remote server (server_1).
+01-12-2023 14:04:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-768x283.png) to a remote server (server_1).
+01-12-2023 14:04:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-160x200.png) to a remote server (server_1).
+01-12-2023 14:04:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-250x300.png) to a remote server (server_1).
+01-12-2023 14:04:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-80x60.png) to a remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-570x304.png) to a remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-96x90.png) to a remote server (server_1).
+01-12-2023 14:04:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-255x160.png) to a remote server (server_1).
+01-12-2023 14:04:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-400x250.png) to a remote server (server_1).
+01-12-2023 14:04:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-200x200.png) to a remote server (server_1).
+01-12-2023 14:04:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-275x197.png) to a remote server (server_1).
+01-12-2023 14:04:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-572x324.png) to a remote server (server_1).
+01-12-2023 14:04:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-273x143.png) to a remote server (server_1).
+01-12-2023 14:04:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-14.04.20-572x194.png) to a remote server (server_1).
+01-12-2023 14:04:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 14:04:50 [vr-j.ru][debug] New queue created #16230, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107941,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:317387,&quot;final_size&quot;:142653,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:15,\&quot;original_main_size\&quot;:21704,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701428690}
+01-12-2023 14:04:50 [vr-j.ru][info] END auto optimize cron job. Attachment: 107941
+-------------------------------
+01-12-2023 17:30:03 [vr-j.ru][info] START auto optimize cron job. Attachment: 107950
+01-12-2023 17:30:03 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06.png) to a remote server (server_1).
+01-12-2023 17:30:05 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:06 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-150x150.png) to a remote server (server_1).
+01-12-2023 17:30:06 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:06 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-300x145.png) to a remote server (server_1).
+01-12-2023 17:30:07 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:07 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-768x372.png) to a remote server (server_1).
+01-12-2023 17:30:08 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:08 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-900x436.png) to a remote server (server_1).
+01-12-2023 17:30:09 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:09 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-1536x744.png) to a remote server (server_1).
+01-12-2023 17:30:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-160x200.png) to a remote server (server_1).
+01-12-2023 17:30:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-250x300.png) to a remote server (server_1).
+01-12-2023 17:30:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-80x60.png) to a remote server (server_1).
+01-12-2023 17:30:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:13 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-570x304.png) to a remote server (server_1).
+01-12-2023 17:30:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-96x90.png) to a remote server (server_1).
+01-12-2023 17:30:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-255x160.png) to a remote server (server_1).
+01-12-2023 17:30:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-400x250.png) to a remote server (server_1).
+01-12-2023 17:30:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-200x200.png) to a remote server (server_1).
+01-12-2023 17:30:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-275x197.png) to a remote server (server_1).
+01-12-2023 17:30:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-572x418.png) to a remote server (server_1).
+01-12-2023 17:30:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-273x143.png) to a remote server (server_1).
+01-12-2023 17:30:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-01-v-17.29.06-572x194.png) to a remote server (server_1).
+01-12-2023 17:30:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+01-12-2023 17:30:19 [vr-j.ru][debug] New queue created #16231, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:107950,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5075083,&quot;final_size&quot;:1678826,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:1539719,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701441019}
+01-12-2023 17:30:19 [vr-j.ru][info] END auto optimize cron job. Attachment: 107950
+-------------------------------
+04-12-2023 15:02:33 [vr-j.ru][info] START auto optimize cron job. Attachment: 108091
+04-12-2023 15:02:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01.png) to a remote server (server_1).
+04-12-2023 15:02:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-150x150.png) to a remote server (server_1).
+04-12-2023 15:02:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-300x105.png) to a remote server (server_1).
+04-12-2023 15:02:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-768x268.png) to a remote server (server_1).
+04-12-2023 15:02:38 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-900x314.png) to a remote server (server_1).
+04-12-2023 15:02:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-1536x536.png) to a remote server (server_1).
+04-12-2023 15:02:41 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:41 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-2048x715.png) to a remote server (server_1).
+04-12-2023 15:02:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-160x200.png) to a remote server (server_1).
+04-12-2023 15:02:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-250x300.png) to a remote server (server_1).
+04-12-2023 15:02:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-80x60.png) to a remote server (server_1).
+04-12-2023 15:02:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-570x304.png) to a remote server (server_1).
+04-12-2023 15:02:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-96x90.png) to a remote server (server_1).
+04-12-2023 15:02:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-255x160.png) to a remote server (server_1).
+04-12-2023 15:02:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-400x250.png) to a remote server (server_1).
+04-12-2023 15:02:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-200x200.png) to a remote server (server_1).
+04-12-2023 15:02:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-275x197.png) to a remote server (server_1).
+04-12-2023 15:02:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-572x418.png) to a remote server (server_1).
+04-12-2023 15:02:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-273x143.png) to a remote server (server_1).
+04-12-2023 15:02:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-15.02.01-572x194.png) to a remote server (server_1).
+04-12-2023 15:02:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 15:02:52 [vr-j.ru][debug] New queue created #16232, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108091,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:6781885,&quot;final_size&quot;:1854264,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:18,\&quot;original_main_size\&quot;:2309830,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701691372}
+04-12-2023 15:02:52 [vr-j.ru][info] END auto optimize cron job. Attachment: 108091
+-------------------------------
+04-12-2023 19:15:06 [vr-j.ru][info] START auto optimize cron job. Attachment: 108102
+04-12-2023 19:15:07 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30.png) to a remote server (server_1).
+04-12-2023 19:15:09 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:10 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-150x150.png) to a remote server (server_1).
+04-12-2023 19:15:10 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:10 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-300x176.png) to a remote server (server_1).
+04-12-2023 19:15:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-768x450.png) to a remote server (server_1).
+04-12-2023 19:15:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-900x527.png) to a remote server (server_1).
+04-12-2023 19:15:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:13 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-1536x900.png) to a remote server (server_1).
+04-12-2023 19:15:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-160x200.png) to a remote server (server_1).
+04-12-2023 19:15:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-250x300.png) to a remote server (server_1).
+04-12-2023 19:15:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-80x60.png) to a remote server (server_1).
+04-12-2023 19:15:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-570x304.png) to a remote server (server_1).
+04-12-2023 19:15:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-96x90.png) to a remote server (server_1).
+04-12-2023 19:15:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-255x160.png) to a remote server (server_1).
+04-12-2023 19:15:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-400x250.png) to a remote server (server_1).
+04-12-2023 19:15:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-200x200.png) to a remote server (server_1).
+04-12-2023 19:15:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-275x197.png) to a remote server (server_1).
+04-12-2023 19:15:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-572x418.png) to a remote server (server_1).
+04-12-2023 19:15:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-273x143.png) to a remote server (server_1).
+04-12-2023 19:15:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.14.30-572x194.png) to a remote server (server_1).
+04-12-2023 19:15:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:15:23 [vr-j.ru][debug] New queue created #16233, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108102,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:4315511,&quot;final_size&quot;:1495606,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:1380734,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701706523}
+04-12-2023 19:15:23 [vr-j.ru][info] END auto optimize cron job. Attachment: 108102
+-------------------------------
+04-12-2023 19:22:47 [vr-j.ru][info] START auto optimize cron job. Attachment: 108103
+04-12-2023 19:22:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20.png) to a remote server (server_1).
+04-12-2023 19:22:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-150x150.png) to a remote server (server_1).
+04-12-2023 19:22:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-168x300.png) to a remote server (server_1).
+04-12-2023 19:22:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-768x1371.png) to a remote server (server_1).
+04-12-2023 19:22:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-314x560.png) to a remote server (server_1).
+04-12-2023 19:22:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-160x200.png) to a remote server (server_1).
+04-12-2023 19:22:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-250x300.png) to a remote server (server_1).
+04-12-2023 19:22:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-80x60.png) to a remote server (server_1).
+04-12-2023 19:22:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-570x304.png) to a remote server (server_1).
+04-12-2023 19:22:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-96x90.png) to a remote server (server_1).
+04-12-2023 19:22:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-255x160.png) to a remote server (server_1).
+04-12-2023 19:22:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-400x250.png) to a remote server (server_1).
+04-12-2023 19:22:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-200x200.png) to a remote server (server_1).
+04-12-2023 19:22:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-275x197.png) to a remote server (server_1).
+04-12-2023 19:22:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-572x418.png) to a remote server (server_1).
+04-12-2023 19:22:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-273x143.png) to a remote server (server_1).
+04-12-2023 19:22:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-04-v-19.22.20-572x194.png) to a remote server (server_1).
+04-12-2023 19:22:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+04-12-2023 19:22:59 [vr-j.ru][debug] New queue created #16234, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108103,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2391454,&quot;final_size&quot;:816250,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:607992,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701706979}
+04-12-2023 19:22:59 [vr-j.ru][info] END auto optimize cron job. Attachment: 108103
+-------------------------------
+05-12-2023 13:58:07 [vr-j.ru][info] START auto optimize cron job. Attachment: 108174
+05-12-2023 13:58:08 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11.png) to a remote server (server_1).
+05-12-2023 13:58:11 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-150x150.png) to a remote server (server_1).
+05-12-2023 13:58:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-300x166.png) to a remote server (server_1).
+05-12-2023 13:58:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-768x425.png) to a remote server (server_1).
+05-12-2023 13:58:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-900x498.png) to a remote server (server_1).
+05-12-2023 13:58:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-1536x851.png) to a remote server (server_1).
+05-12-2023 13:58:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-160x200.png) to a remote server (server_1).
+05-12-2023 13:58:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-250x300.png) to a remote server (server_1).
+05-12-2023 13:58:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-80x60.png) to a remote server (server_1).
+05-12-2023 13:58:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-570x304.png) to a remote server (server_1).
+05-12-2023 13:58:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-96x90.png) to a remote server (server_1).
+05-12-2023 13:58:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-255x160.png) to a remote server (server_1).
+05-12-2023 13:58:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-400x250.png) to a remote server (server_1).
+05-12-2023 13:58:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-200x200.png) to a remote server (server_1).
+05-12-2023 13:58:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-275x197.png) to a remote server (server_1).
+05-12-2023 13:58:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-572x418.png) to a remote server (server_1).
+05-12-2023 13:58:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-273x143.png) to a remote server (server_1).
+05-12-2023 13:58:25 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-13.15.11-572x194.png) to a remote server (server_1).
+05-12-2023 13:58:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 13:58:26 [vr-j.ru][debug] New queue created #16235, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108174,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:4761399,&quot;final_size&quot;:1602370,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:1466872,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701773906}
+05-12-2023 13:58:26 [vr-j.ru][info] END auto optimize cron job. Attachment: 108174
+-------------------------------
+05-12-2023 18:48:14 [vr-j.ru][info] START auto optimize cron job. Attachment: 108187
+05-12-2023 18:48:14 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50.png) to a remote server (server_1).
+05-12-2023 18:48:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-150x150.png) to a remote server (server_1).
+05-12-2023 18:48:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-300x146.png) to a remote server (server_1).
+05-12-2023 18:48:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-768x373.png) to a remote server (server_1).
+05-12-2023 18:48:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-900x437.png) to a remote server (server_1).
+05-12-2023 18:48:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-160x200.png) to a remote server (server_1).
+05-12-2023 18:48:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-250x300.png) to a remote server (server_1).
+05-12-2023 18:48:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-80x60.png) to a remote server (server_1).
+05-12-2023 18:48:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-570x304.png) to a remote server (server_1).
+05-12-2023 18:48:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-96x90.png) to a remote server (server_1).
+05-12-2023 18:48:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-255x160.png) to a remote server (server_1).
+05-12-2023 18:48:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-400x250.png) to a remote server (server_1).
+05-12-2023 18:48:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-200x200.png) to a remote server (server_1).
+05-12-2023 18:48:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-275x197.png) to a remote server (server_1).
+05-12-2023 18:48:25 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-572x418.png) to a remote server (server_1).
+05-12-2023 18:48:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-273x143.png) to a remote server (server_1).
+05-12-2023 18:48:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:27 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.47.50-572x194.png) to a remote server (server_1).
+05-12-2023 18:48:27 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:48:28 [vr-j.ru][debug] New queue created #16236, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108187,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2619544,&quot;final_size&quot;:962467,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:762884,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701791308}
+05-12-2023 18:48:28 [vr-j.ru][info] END auto optimize cron job. Attachment: 108187
+-------------------------------
+05-12-2023 18:53:56 [vr-j.ru][info] START auto optimize cron job. Attachment: 108188
+05-12-2023 18:53:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22.png) to a remote server (server_1).
+05-12-2023 18:53:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:53:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-150x150.png) to a remote server (server_1).
+05-12-2023 18:53:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:53:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-300x67.png) to a remote server (server_1).
+05-12-2023 18:53:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:53:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-768x172.png) to a remote server (server_1).
+05-12-2023 18:53:59 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:53:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-900x202.png) to a remote server (server_1).
+05-12-2023 18:54:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-160x200.png) to a remote server (server_1).
+05-12-2023 18:54:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-250x300.png) to a remote server (server_1).
+05-12-2023 18:54:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-80x60.png) to a remote server (server_1).
+05-12-2023 18:54:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-570x304.png) to a remote server (server_1).
+05-12-2023 18:54:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-96x90.png) to a remote server (server_1).
+05-12-2023 18:54:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-255x160.png) to a remote server (server_1).
+05-12-2023 18:54:03 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:03 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-400x250.png) to a remote server (server_1).
+05-12-2023 18:54:03 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:04 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-200x200.png) to a remote server (server_1).
+05-12-2023 18:54:04 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:04 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-275x197.png) to a remote server (server_1).
+05-12-2023 18:54:05 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:05 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-572x318.png) to a remote server (server_1).
+05-12-2023 18:54:05 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:05 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-273x143.png) to a remote server (server_1).
+05-12-2023 18:54:06 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:06 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.53.22-572x194.png) to a remote server (server_1).
+05-12-2023 18:54:06 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:54:06 [vr-j.ru][debug] New queue created #16237, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108188,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1250798,&quot;final_size&quot;:658080,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:234975,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701791646}
+05-12-2023 18:54:06 [vr-j.ru][info] END auto optimize cron job. Attachment: 108188
+-------------------------------
+05-12-2023 18:57:10 [vr-j.ru][info] START auto optimize cron job. Attachment: 108189
+05-12-2023 18:57:11 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41.png) to a remote server (server_1).
+05-12-2023 18:57:12 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:12 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-150x150.png) to a remote server (server_1).
+05-12-2023 18:57:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:13 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-300x156.png) to a remote server (server_1).
+05-12-2023 18:57:13 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:13 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-768x399.png) to a remote server (server_1).
+05-12-2023 18:57:14 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:15 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-900x467.png) to a remote server (server_1).
+05-12-2023 18:57:15 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-160x200.png) to a remote server (server_1).
+05-12-2023 18:57:16 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:16 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-250x300.png) to a remote server (server_1).
+05-12-2023 18:57:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-80x60.png) to a remote server (server_1).
+05-12-2023 18:57:17 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:17 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-570x304.png) to a remote server (server_1).
+05-12-2023 18:57:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-96x90.png) to a remote server (server_1).
+05-12-2023 18:57:18 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-255x160.png) to a remote server (server_1).
+05-12-2023 18:57:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-400x250.png) to a remote server (server_1).
+05-12-2023 18:57:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-200x200.png) to a remote server (server_1).
+05-12-2023 18:57:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-275x197.png) to a remote server (server_1).
+05-12-2023 18:57:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-572x418.png) to a remote server (server_1).
+05-12-2023 18:57:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-273x143.png) to a remote server (server_1).
+05-12-2023 18:57:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-05-v-18.56.41-572x194.png) to a remote server (server_1).
+05-12-2023 18:57:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+05-12-2023 18:57:24 [vr-j.ru][debug] New queue created #16238, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108189,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3589481,&quot;final_size&quot;:1253386,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:1306874,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701791844}
+05-12-2023 18:57:24 [vr-j.ru][info] END auto optimize cron job. Attachment: 108189
+-------------------------------
+06-12-2023 09:49:27 [vr-j.ru][info] START auto optimize cron job. Attachment: 108264
+06-12-2023 09:49:28 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03.png) to a remote server (server_1).
+06-12-2023 09:49:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-150x150.png) to a remote server (server_1).
+06-12-2023 09:49:31 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:31 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-300x191.png) to a remote server (server_1).
+06-12-2023 09:49:32 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:32 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-768x489.png) to a remote server (server_1).
+06-12-2023 09:49:33 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:33 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-879x560.png) to a remote server (server_1).
+06-12-2023 09:49:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:35 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-160x200.png) to a remote server (server_1).
+06-12-2023 09:49:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:35 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-250x300.png) to a remote server (server_1).
+06-12-2023 09:49:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-80x60.png) to a remote server (server_1).
+06-12-2023 09:49:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:37 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-570x304.png) to a remote server (server_1).
+06-12-2023 09:49:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-96x90.png) to a remote server (server_1).
+06-12-2023 09:49:38 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:38 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-255x160.png) to a remote server (server_1).
+06-12-2023 09:49:39 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:39 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-400x250.png) to a remote server (server_1).
+06-12-2023 09:49:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-200x200.png) to a remote server (server_1).
+06-12-2023 09:49:40 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:40 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-275x197.png) to a remote server (server_1).
+06-12-2023 09:49:41 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:41 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-572x418.png) to a remote server (server_1).
+06-12-2023 09:49:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-273x143.png) to a remote server (server_1).
+06-12-2023 09:49:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-09.49.03-572x194.png) to a remote server (server_1).
+06-12-2023 09:49:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 09:49:44 [vr-j.ru][debug] New queue created #16239, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108264,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5871544,&quot;final_size&quot;:1829209,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:1833122,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701845384}
+06-12-2023 09:49:44 [vr-j.ru][info] END auto optimize cron job. Attachment: 108264
+-------------------------------
+06-12-2023 20:19:40 [vr-j.ru][info] START auto optimize cron job. Attachment: 108289
+06-12-2023 20:19:42 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08.png) to a remote server (server_1).
+06-12-2023 20:19:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-150x150.png) to a remote server (server_1).
+06-12-2023 20:19:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-300x155.png) to a remote server (server_1).
+06-12-2023 20:19:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-768x397.png) to a remote server (server_1).
+06-12-2023 20:19:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-900x465.png) to a remote server (server_1).
+06-12-2023 20:19:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-1536x794.png) to a remote server (server_1).
+06-12-2023 20:19:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-2048x1058.png) to a remote server (server_1).
+06-12-2023 20:19:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-160x200.png) to a remote server (server_1).
+06-12-2023 20:19:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-250x300.png) to a remote server (server_1).
+06-12-2023 20:19:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-80x60.png) to a remote server (server_1).
+06-12-2023 20:19:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-570x304.png) to a remote server (server_1).
+06-12-2023 20:19:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-96x90.png) to a remote server (server_1).
+06-12-2023 20:19:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-255x160.png) to a remote server (server_1).
+06-12-2023 20:19:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-400x250.png) to a remote server (server_1).
+06-12-2023 20:19:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-200x200.png) to a remote server (server_1).
+06-12-2023 20:19:59 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:19:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-275x197.png) to a remote server (server_1).
+06-12-2023 20:20:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:20:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-572x418.png) to a remote server (server_1).
+06-12-2023 20:20:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:20:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-273x143.png) to a remote server (server_1).
+06-12-2023 20:20:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:20:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-06-v-20.19.08-572x194.png) to a remote server (server_1).
+06-12-2023 20:20:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+06-12-2023 20:20:02 [vr-j.ru][debug] New queue created #16240, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108289,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:7354339,&quot;final_size&quot;:2310354,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:18,\&quot;original_main_size\&quot;:1868371,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701883202}
+06-12-2023 20:20:02 [vr-j.ru][info] END auto optimize cron job. Attachment: 108289
+-------------------------------
+07-12-2023 14:44:18 [vr-j.ru][info] START auto optimize cron job. Attachment: 108355
+07-12-2023 14:44:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36.png) to a remote server (server_1).
+07-12-2023 14:44:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-150x150.png) to a remote server (server_1).
+07-12-2023 14:44:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-300x195.png) to a remote server (server_1).
+07-12-2023 14:44:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-768x500.png) to a remote server (server_1).
+07-12-2023 14:44:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-859x560.png) to a remote server (server_1).
+07-12-2023 14:44:25 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-1536x1001.png) to a remote server (server_1).
+07-12-2023 14:44:28 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:28 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-160x200.png) to a remote server (server_1).
+07-12-2023 14:44:29 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:29 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-250x300.png) to a remote server (server_1).
+07-12-2023 14:44:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-80x60.png) to a remote server (server_1).
+07-12-2023 14:44:30 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:30 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-570x304.png) to a remote server (server_1).
+07-12-2023 14:44:31 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:31 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-96x90.png) to a remote server (server_1).
+07-12-2023 14:44:32 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:32 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-255x160.png) to a remote server (server_1).
+07-12-2023 14:44:32 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:32 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-400x250.png) to a remote server (server_1).
+07-12-2023 14:44:33 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:33 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-200x200.png) to a remote server (server_1).
+07-12-2023 14:44:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-275x197.png) to a remote server (server_1).
+07-12-2023 14:44:34 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:34 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-572x418.png) to a remote server (server_1).
+07-12-2023 14:44:35 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-273x143.png) to a remote server (server_1).
+07-12-2023 14:44:36 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:36 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.38.36-572x194.png) to a remote server (server_1).
+07-12-2023 14:44:37 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:44:37 [vr-j.ru][debug] New queue created #16241, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108355,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5787606,&quot;final_size&quot;:1902556,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:17,\&quot;original_main_size\&quot;:2201349,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701949477}
+07-12-2023 14:44:37 [vr-j.ru][info] END auto optimize cron job. Attachment: 108355
+-------------------------------
+07-12-2023 14:59:43 [vr-j.ru][info] START auto optimize cron job. Attachment: 108356
+07-12-2023 14:59:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37.png) to a remote server (server_1).
+07-12-2023 14:59:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-150x150.png) to a remote server (server_1).
+07-12-2023 14:59:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-300x219.png) to a remote server (server_1).
+07-12-2023 14:59:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-768x560.png) to a remote server (server_1).
+07-12-2023 14:59:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-768x560.png) to a remote server (server_1).
+07-12-2023 14:59:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-160x200.png) to a remote server (server_1).
+07-12-2023 14:59:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-250x300.png) to a remote server (server_1).
+07-12-2023 14:59:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-80x60.png) to a remote server (server_1).
+07-12-2023 14:59:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-570x304.png) to a remote server (server_1).
+07-12-2023 14:59:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-96x90.png) to a remote server (server_1).
+07-12-2023 14:59:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-255x160.png) to a remote server (server_1).
+07-12-2023 14:59:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-400x250.png) to a remote server (server_1).
+07-12-2023 14:59:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-200x200.png) to a remote server (server_1).
+07-12-2023 14:59:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-275x197.png) to a remote server (server_1).
+07-12-2023 14:59:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-572x418.png) to a remote server (server_1).
+07-12-2023 14:59:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-273x143.png) to a remote server (server_1).
+07-12-2023 14:59:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-14.42.37-572x194.png) to a remote server (server_1).
+07-12-2023 14:59:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 14:59:56 [vr-j.ru][debug] New queue created #16242, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108356,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3385015,&quot;final_size&quot;:1535392,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:1465929,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701950396}
+07-12-2023 14:59:56 [vr-j.ru][info] END auto optimize cron job. Attachment: 108356
+-------------------------------
+07-12-2023 15:02:45 [vr-j.ru][info] START auto optimize cron job. Attachment: 108357
+07-12-2023 15:02:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18.png) to a remote server (server_1).
+07-12-2023 15:02:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-150x150.png) to a remote server (server_1).
+07-12-2023 15:02:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-300x164.png) to a remote server (server_1).
+07-12-2023 15:02:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-768x419.png) to a remote server (server_1).
+07-12-2023 15:02:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-900x491.png) to a remote server (server_1).
+07-12-2023 15:02:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-160x200.png) to a remote server (server_1).
+07-12-2023 15:02:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-250x300.png) to a remote server (server_1).
+07-12-2023 15:02:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-80x60.png) to a remote server (server_1).
+07-12-2023 15:02:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-570x304.png) to a remote server (server_1).
+07-12-2023 15:02:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-96x90.png) to a remote server (server_1).
+07-12-2023 15:02:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-255x160.png) to a remote server (server_1).
+07-12-2023 15:02:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-400x250.png) to a remote server (server_1).
+07-12-2023 15:02:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-200x200.png) to a remote server (server_1).
+07-12-2023 15:02:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-275x197.png) to a remote server (server_1).
+07-12-2023 15:02:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-572x418.png) to a remote server (server_1).
+07-12-2023 15:02:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-273x143.png) to a remote server (server_1).
+07-12-2023 15:02:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.02.18-572x194.png) to a remote server (server_1).
+07-12-2023 15:02:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:02:56 [vr-j.ru][debug] New queue created #16243, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108357,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1058770,&quot;final_size&quot;:451706,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:232270,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701950576}
+07-12-2023 15:02:56 [vr-j.ru][info] END auto optimize cron job. Attachment: 108357
+-------------------------------
+07-12-2023 15:04:48 [vr-j.ru][info] START auto optimize cron job. Attachment: 108358
+07-12-2023 15:04:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10.png) to a remote server (server_1).
+07-12-2023 15:04:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-150x150.png) to a remote server (server_1).
+07-12-2023 15:04:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-300x174.png) to a remote server (server_1).
+07-12-2023 15:04:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-768x444.png) to a remote server (server_1).
+07-12-2023 15:04:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:53 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-900x521.png) to a remote server (server_1).
+07-12-2023 15:04:54 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-160x200.png) to a remote server (server_1).
+07-12-2023 15:04:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-250x300.png) to a remote server (server_1).
+07-12-2023 15:04:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-80x60.png) to a remote server (server_1).
+07-12-2023 15:04:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-570x304.png) to a remote server (server_1).
+07-12-2023 15:04:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-96x90.png) to a remote server (server_1).
+07-12-2023 15:04:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-255x160.png) to a remote server (server_1).
+07-12-2023 15:04:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-400x250.png) to a remote server (server_1).
+07-12-2023 15:04:59 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:04:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-200x200.png) to a remote server (server_1).
+07-12-2023 15:05:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-275x197.png) to a remote server (server_1).
+07-12-2023 15:05:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-572x418.png) to a remote server (server_1).
+07-12-2023 15:05:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-273x143.png) to a remote server (server_1).
+07-12-2023 15:05:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.10-572x194.png) to a remote server (server_1).
+07-12-2023 15:05:03 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:03 [vr-j.ru][debug] New queue created #16244, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108358,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:4741132,&quot;final_size&quot;:1480243,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:1894067,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701950703}
+07-12-2023 15:05:03 [vr-j.ru][info] END auto optimize cron job. Attachment: 108358
+-------------------------------
+07-12-2023 15:05:18 [vr-j.ru][info] START auto optimize cron job. Attachment: 108359
+07-12-2023 15:05:18 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54.png) to a remote server (server_1).
+07-12-2023 15:05:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-150x150.png) to a remote server (server_1).
+07-12-2023 15:05:19 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:19 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-300x144.png) to a remote server (server_1).
+07-12-2023 15:05:20 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:20 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-768x368.png) to a remote server (server_1).
+07-12-2023 15:05:21 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:21 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-900x431.png) to a remote server (server_1).
+07-12-2023 15:05:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-160x200.png) to a remote server (server_1).
+07-12-2023 15:05:22 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:22 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-250x300.png) to a remote server (server_1).
+07-12-2023 15:05:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-80x60.png) to a remote server (server_1).
+07-12-2023 15:05:23 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:23 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-570x304.png) to a remote server (server_1).
+07-12-2023 15:05:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:24 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-96x90.png) to a remote server (server_1).
+07-12-2023 15:05:24 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-255x160.png) to a remote server (server_1).
+07-12-2023 15:05:25 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:25 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-400x250.png) to a remote server (server_1).
+07-12-2023 15:05:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-200x200.png) to a remote server (server_1).
+07-12-2023 15:05:26 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:26 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-275x197.png) to a remote server (server_1).
+07-12-2023 15:05:27 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:27 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-572x418.png) to a remote server (server_1).
+07-12-2023 15:05:28 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:28 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-273x143.png) to a remote server (server_1).
+07-12-2023 15:05:28 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:28 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-15.04.54-572x194.png) to a remote server (server_1).
+07-12-2023 15:05:29 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 15:05:29 [vr-j.ru][debug] New queue created #16245, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108359,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2504214,&quot;final_size&quot;:953771,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:783314,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701950729}
+07-12-2023 15:05:29 [vr-j.ru][info] END auto optimize cron job. Attachment: 108359
+-------------------------------
+07-12-2023 20:09:53 [vr-j.ru][info] START auto optimize cron job. Attachment: 108378
+07-12-2023 20:09:54 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24.png) to a remote server (server_1).
+07-12-2023 20:09:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-150x150.png) to a remote server (server_1).
+07-12-2023 20:09:55 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:55 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-300x160.png) to a remote server (server_1).
+07-12-2023 20:09:56 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:56 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-768x409.png) to a remote server (server_1).
+07-12-2023 20:09:57 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:57 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-900x480.png) to a remote server (server_1).
+07-12-2023 20:09:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-160x200.png) to a remote server (server_1).
+07-12-2023 20:09:58 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:58 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-250x300.png) to a remote server (server_1).
+07-12-2023 20:09:59 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-80x60.png) to a remote server (server_1).
+07-12-2023 20:09:59 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:09:59 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-570x304.png) to a remote server (server_1).
+07-12-2023 20:10:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-96x90.png) to a remote server (server_1).
+07-12-2023 20:10:00 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:00 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-255x160.png) to a remote server (server_1).
+07-12-2023 20:10:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-400x250.png) to a remote server (server_1).
+07-12-2023 20:10:01 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:01 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-200x200.png) to a remote server (server_1).
+07-12-2023 20:10:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:02 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-275x197.png) to a remote server (server_1).
+07-12-2023 20:10:02 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:03 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-572x418.png) to a remote server (server_1).
+07-12-2023 20:10:03 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:03 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-273x143.png) to a remote server (server_1).
+07-12-2023 20:10:04 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:04 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-07-v-20.09.24-572x194.png) to a remote server (server_1).
+07-12-2023 20:10:04 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+07-12-2023 20:10:05 [vr-j.ru][debug] New queue created #16246, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108378,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1868953,&quot;final_size&quot;:864510,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:478357,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1701969005}
+07-12-2023 20:10:05 [vr-j.ru][info] END auto optimize cron job. Attachment: 108378
+-------------------------------
+08-12-2023 12:01:40 [vr-j.ru][info] START auto optimize cron job. Attachment: 108430
+08-12-2023 12:01:41 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18.png) to a remote server (server_1).
+08-12-2023 12:01:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:42 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-150x150.png) to a remote server (server_1).
+08-12-2023 12:01:42 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-300x177.png) to a remote server (server_1).
+08-12-2023 12:01:43 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:43 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-768x454.png) to a remote server (server_1).
+08-12-2023 12:01:44 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:44 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-900x532.png) to a remote server (server_1).
+08-12-2023 12:01:45 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:45 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-160x200.png) to a remote server (server_1).
+08-12-2023 12:01:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:46 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-250x300.png) to a remote server (server_1).
+08-12-2023 12:01:46 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-80x60.png) to a remote server (server_1).
+08-12-2023 12:01:47 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:47 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-570x304.png) to a remote server (server_1).
+08-12-2023 12:01:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-96x90.png) to a remote server (server_1).
+08-12-2023 12:01:48 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:48 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-255x160.png) to a remote server (server_1).
+08-12-2023 12:01:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:49 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-400x250.png) to a remote server (server_1).
+08-12-2023 12:01:49 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-200x200.png) to a remote server (server_1).
+08-12-2023 12:01:50 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:50 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-275x197.png) to a remote server (server_1).
+08-12-2023 12:01:51 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:51 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-572x418.png) to a remote server (server_1).
+08-12-2023 12:01:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-273x143.png) to a remote server (server_1).
+08-12-2023 12:01:52 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:52 [vr-j.ru][info] Preparing to upload a file (/var/www/www-root/data/www/vr-j.ru/wp-content/uploads/2023/12/Snimok-ekrana-2023-12-08-v-12.01.18-572x194.png) to a remote server (server_1).
+08-12-2023 12:01:53 [vr-j.ru][info] File successfully uploaded to remote server (server_1).
+08-12-2023 12:01:53 [vr-j.ru][debug] New queue created #16247, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:108430,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3755056,&quot;final_size&quot;:1956305,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:16,\&quot;original_main_size\&quot;:1142711,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1702026113}
+08-12-2023 12:01:53 [vr-j.ru][info] END auto optimize cron job. Attachment: 108430
+-------------------------------

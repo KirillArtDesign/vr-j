@@ -1,0 +1,194 @@
+<div class="lk__form-in">
+										<div class="lk__title">Образование</div>
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">
+													Уровень
+												</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<select class="lk__select">
+													<option value="">Высшее </option>
+													<option value="1">Высшее</option>
+													<option value="1">Высшее </option>
+													<option value="1">Высшее </option>
+													<option value="1">Россия</option>
+												</select>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">
+													Степень
+												</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<select class="lk__select">
+													<option value="">Высшее </option>
+													<option value="1">Высшее</option>
+													<option value="1">Высшее </option>
+													<option value="1">Высшее </option>
+													<option value="1">Россия</option>
+												</select>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<div class="lk__title lk__title_sep">Основное образование</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">
+													Выбор учебного заведения
+												</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<textarea class="lk__textarea lk__textarea_high" placeholder="Древовидный список проф."></textarea>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<input type="text" class="lk__input" placeholder="Напишите учебное заведение если его нет в катлоге">
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Факультет</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<input type="text" class="lk__input" placeholder="Ввидите название">
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Специальность</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<input type="text" class="lk__input" placeholder="Ввидите название">
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Год окончания</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<select class="lk__select">
+													<option value=""></option>
+													<option value="1">2001</option>
+													<option value="1">2002</option>
+													<option value="1">2018</option>
+													<option value="1">3125</option>
+												</select>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<a href="#" class="btn btn_resume-new btn_blue">Добавить еще одно заведение</a>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<div class="lk__title lk__title_sep">Курсы</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Назание курсов</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<input type="text" class="lk__input" placeholder="Ввидите название">
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Год</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<select class="lk__select">
+													<option value="">Выберете год</option>
+													<option value="1">2001</option>
+													<option value="1">2002</option>
+													<option value="1">2018</option>
+													<option value="1">3125</option>
+												</select>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Образовательный центр</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<input type="text" class="lk__input" placeholder="Введите пишется через е">
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">О курсах</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<textarea class="lk__textarea"></textarea>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<a href="#" class="btn btn_resume-new btn_blue">Добавить еще курс</a>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<div class="lk__title lk__title_sep">Владение языками</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4 col-xs-12">
+												<label for="">Укажите языки</label>
+											</div>
+											<div class="col-sm-8 col-xs-12">
+												<div class="row">
+													<div class="col-sm-5 col-xs-6">
+														<select class="lk__select">
+															<option value="">Основной</option>
+															<option value="">Основной</option>
+															<option value="">Основной</option>
+															<option value="">Основной</option>
+															<option value="">Основной</option>
+														</select>
+													</div>
+													<div class="col-sm-5 col-xs-6">
+														<select class="lk__select">
+															<option value="">Русский</option>
+															<option value="">Русский</option>
+															<option value="">Русский</option>
+															<option value="">Русский</option>
+														</select>
+													</div>
+												</div>												
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-8 col-sm-offset-4 col-xs-12">
+												<a href="#" class="btn btn_resume-new btn_blue">Добавить еще язык</a>
+											</div>
+										</div>
+
+									</div>

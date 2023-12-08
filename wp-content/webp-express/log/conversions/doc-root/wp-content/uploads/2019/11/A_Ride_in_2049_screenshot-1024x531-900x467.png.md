@@ -1,0 +1,164 @@
+WebP Express 0.17.2. Conversion triggered with the conversion script (wod/webp-on-demand.php), 2019-11-12 07:55:17
+
+*WebP Convert 2.3.0*  ignited.
+- PHP version: 7.0.33-0+deb9u6
+- Server software: Apache/2.4.25 (Debian)
+
+Stack converter ignited
+
+Options:
+------------
+The following options have been set explicitly. Note: it is the resulting options after merging down the "jpeg" and "png" options and any converter-prefixed options.
+- source: [doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png
+- destination: [doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp
+- log-call-arguments: true
+- converters: (array of 9 items)
+
+The following options have not been explicitly set, so using the following defaults:
+- converter-options: (empty array)
+- shuffle: false
+- preferred-converters: (empty array)
+- extra-converters: (empty array)
+
+The following options were supplied and are passed on to the converters in the stack:
+- alpha-quality: 85
+- encoding: "auto"
+- metadata: "none"
+- near-lossless: 60
+- quality: 85
+------------
+
+
+*Trying: cwebp* 
+
+Options:
+------------
+The following options have been set explicitly. Note: it is the resulting options after merging down the "jpeg" and "png" options and any converter-prefixed options.
+- source: [doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png
+- destination: [doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp
+- alpha-quality: 85
+- encoding: "auto"
+- low-memory: true
+- log-call-arguments: true
+- metadata: "none"
+- method: 6
+- near-lossless: 60
+- quality: 85
+- use-nice: true
+- command-line-options: ""
+- try-common-system-paths: true
+- try-supplied-binary-for-os: true
+
+The following options have not been explicitly set, so using the following defaults:
+- auto-filter: false
+- default-quality: 85
+- max-quality: 85
+- preset: "none"
+- size-in-percentage: null (not set)
+- skip: false
+- rel-path-to-precompiled-binaries: *****
+- try-cwebp: true
+- try-discovering-cwebp: true
+------------
+
+Encoding is set to auto - converting to both lossless and lossy and selecting the smallest file
+
+Converting to lossy
+Looking for cwebp binaries.
+Discovering if a plain cwebp call works (to skip this step, disable the "try-cwebp" option)
+- Executing: cwebp -version. Result: *Exec failed* (the cwebp binary was not found at path: cwebp)
+Nope a plain cwebp call does not work
+Discovering binaries using "which -a cwebp" command. (to skip this step, disable the "try-discovering-cwebp" option)
+Found 0 binaries
+Discovering binaries by peeking in common system paths (to skip this step, disable the "try-common-system-paths" option)
+Found 0 binaries
+Discovering binaries which are distributed with the webp-convert library (to skip this step, disable the "try-supplied-binary-for-os" option)
+Checking if we have a supplied precompiled binary for your OS (Linux)... We do. We in fact have 3
+Found 3 binaries: 
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64
+Detecting versions of the cwebp binaries found
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64 -version. Result: version: *1.0.3*
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static -version. Result: *Exec failed* (the cwebp binary was not found at path: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static)
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64 -version. Result: version: *0.6.1*
+Binaries ordered by version number.
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64: (version: 1.0.3)
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64: (version: 0.6.1)
+Trying the first of these. If that should fail (it should not), the next will be tried and so on.
+Creating command line options for version: 1.0.3
+Quality: 85. 
+The near-lossless option ignored for lossy
+Trying to convert by executing the following command:
+nice [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64 -metadata none -q 85 -alpha_q '85' -m 6 -low_memory '[doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png' -o '[doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp.lossy.webp' 2>&1
+
+*Output:* 
+Saving file '[doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp.lossy.webp'
+File:      [doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png
+Dimension: 900 x 467
+Output:    45216 bytes Y-U-V-All-PSNR 42.15 46.07 46.23   43.13 dB
+           (0.86 bpp)
+block count:  intra4:       1493  (87.31%)
+              intra16:       217  (12.69%)
+              skipped:        10  (0.58%)
+bytes used:  header:            214  (0.5%)
+             mode-partition:   6965  (15.4%)
+ Residuals bytes  |segment 1|segment 2|segment 3|segment 4|  total
+  intra4-coeffs:  |   23032 |    1613 |    1582 |     950 |   27177  (60.1%)
+ intra16-coeffs:  |     633 |     232 |     647 |     650 |    2162  (4.8%)
+  chroma coeffs:  |    6779 |     597 |     726 |     568 |    8670  (19.2%)
+    macroblocks:  |      64%|      11%|      12%|      13%|    1710
+      quantizer:  |      17 |      12 |       8 |       8 |
+   filter level:  |       8 |       9 |       4 |       9 |
+------------------+---------+---------+---------+---------+-----------------
+ segments total:  |   30444 |    2442 |    2955 |    2168 |   38009  (84.1%)
+
+Success
+Reduction: 71% (went from 154 kb to 44 kb)
+
+Converting to lossless
+Looking for cwebp binaries.
+Discovering if a plain cwebp call works (to skip this step, disable the "try-cwebp" option)
+- Executing: cwebp -version. Result: *Exec failed* (the cwebp binary was not found at path: cwebp)
+Nope a plain cwebp call does not work
+Discovering binaries using "which -a cwebp" command. (to skip this step, disable the "try-discovering-cwebp" option)
+Found 0 binaries
+Discovering binaries by peeking in common system paths (to skip this step, disable the "try-common-system-paths" option)
+Found 0 binaries
+Discovering binaries which are distributed with the webp-convert library (to skip this step, disable the "try-supplied-binary-for-os" option)
+Checking if we have a supplied precompiled binary for your OS (Linux)... We do. We in fact have 3
+Found 3 binaries: 
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64
+Detecting versions of the cwebp binaries found
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64 -version. Result: version: *1.0.3*
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static -version. Result: *Exec failed* (the cwebp binary was not found at path: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64-static)
+- Executing: [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64 -version. Result: version: *0.6.1*
+Binaries ordered by version number.
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64: (version: 1.0.3)
+- [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-061-linux-x86-64: (version: 0.6.1)
+Trying the first of these. If that should fail (it should not), the next will be tried and so on.
+Creating command line options for version: 1.0.3
+Trying to convert by executing the following command:
+nice [doc-root]/wp-content/plugins/webp-express/vendor/rosell-dk/webp-convert/src/Convert/Converters/Binaries/cwebp-103-linux-x86-64 -metadata none -q 85 -alpha_q '85' -near_lossless 60 -m 6 -low_memory '[doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png' -o '[doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp.lossless.webp' 2>&1
+
+*Output:* 
+Saving file '[doc-root]/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png.webp.lossless.webp'
+File:      [doc-root]/wp-content/uploads/2019/11/A_Ride_in_2049_screenshot-1024x531-900x467.png
+Dimension: 900 x 467
+Output:    148206 bytes (2.82 bpp)
+Lossless-ARGB compressed size: 148206 bytes
+  * Header size: 1386 bytes, image data size: 146794
+  * Lossless features used: PALETTE
+  * Precision Bits: histogram=4 transform=4 cache=2
+  * Palette size:   256
+
+Success
+Reduction: 6% (went from 154 kb to 145 kb)
+
+Picking lossy
+cwebp succeeded :)
+
+Converted image in 789 ms, reducing file size with 71% (went from 154 kb to 44 kb)
+
